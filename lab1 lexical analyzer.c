@@ -1,4 +1,4 @@
-//Program to make a simple lexical analyzer in C
+//Program to make a simple lexical analyzer of different operators in C
 
 #include<stdio.h>
 #include<conio.h>
